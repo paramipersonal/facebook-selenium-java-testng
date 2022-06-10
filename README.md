@@ -72,6 +72,7 @@ https://github.com/paramipersonal/facebook-selenium-java-testng.git
 5. Navigate to Import from Git ,using smart Import
 6. Clone the github repository.
 7. Eclipse will fetch the master branch, keep clicking on Next button until project is imported.
+8. Once all the dependency errors get resolved, run the [FacebookBasicTestSpec.java](https://github.com/paramipersonal/facebook-selenium-java-testng/blob/master/src/test/java/test_scenarios/FacebookBasicTestSpec.java) file to run the tests.
 
 
 ## Project Structure and Descriptions
