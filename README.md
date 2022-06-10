@@ -3,40 +3,40 @@
 ```
 	<dependency>
     		<groupId>org.seleniumhq.selenium</groupId>
-    	<artifactId>selenium-java</artifactId>
-    	<version>3.0.0</version>
+    		<artifactId>selenium-java</artifactId>
+    		<version>3.0.0</version>
 	</dependency>
 ```
 
 ```
 	<dependency>
-    	<groupId>io.github.bonigarcia</groupId>
-    	<artifactId>webdrivermanager</artifactId>
-    	<version>5.2.0</version>
+    		<groupId>io.github.bonigarcia</groupId>
+    		<artifactId>webdrivermanager</artifactId>
+    		<version>5.2.0</version>
 	</dependency>
 ```
 ```
 	<dependency>
-    	<groupId>org.testng</groupId>
-    	<artifactId>testng</artifactId>
-    	<version>7.6.0</version>
-    	<scope>test</scope>
-	</dependency>
-	
-```
-```
-	<dependency>
-    	<groupId>org.apache.logging.log4j</groupId>
-    	<artifactId>log4j-core</artifactId>
-    	<version>2.17.2</version>
+    		<groupId>org.testng</groupId>
+    		<artifactId>testng</artifactId>
+    		<version>7.6.0</version>
+    		<scope>test</scope>
 	</dependency>
 	
 ```
 ```
 	<dependency>
-    	<groupId>org.apache.logging.log4j</groupId>
-    	<artifactId>log4j-api</artifactId>
-    	<version>2.17.2</version>
+    		<groupId>org.apache.logging.log4j</groupId>
+    		<artifactId>log4j-core</artifactId>
+    		<version>2.17.2</version>
+	</dependency>
+	
+```
+```
+	<dependency>
+    		<groupId>org.apache.logging.log4j</groupId>
+    		<artifactId>log4j-api</artifactId>
+    		<version>2.17.2</version>
 	</dependency>
 	
 ```
