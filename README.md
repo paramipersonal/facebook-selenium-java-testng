@@ -1,5 +1,46 @@
 # Facebook Basic Functionalities
-## Dependencies
+## Dependencies used in pom.xml
+```
+	<dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>3.0.0</version>
+	</dependency>
+```
+
+```
+	<dependency>
+    	<groupId>io.github.bonigarcia</groupId>
+    	<artifactId>webdrivermanager</artifactId>
+    	<version>5.2.0</version>
+	</dependency>
+```
+```
+	<dependency>
+    	<groupId>org.testng</groupId>
+    	<artifactId>testng</artifactId>
+    	<version>7.6.0</version>
+    	<scope>test</scope>
+	</dependency>
+	
+```
+```
+	<dependency>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-core</artifactId>
+    	<version>2.17.2</version>
+	</dependency>
+	
+```
+```
+	<dependency>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-api</artifactId>
+    	<version>2.17.2</version>
+	</dependency>
+	
+```
+
 
 ## Project Structure and Descriptions
 This is a simple project that uses Selenium 3, Java, TestNG to perform the below actions : 
@@ -37,8 +78,10 @@ There are three packages under the [source/test/java](https://github.com/paramip
 It has been observed that various facebook profile had various navigation patterns involved.
 I observed a couple of facebook profiles, in the same machine, same browser and found two different UI navigation patterns.Using a different type of UI might change the tests in minor ways.Here I have used the below UI type to write the tests.
 
-**Used UI Type** :
 ![Image1](https://github.com/paramipersonal/facebook-selenium-java-testng/blob/master/images/UI_test1.PNG)
 
 ## Challenges
+Since most of the css selectors were created dynamically, finding locators and selecting the proper locators to find the web elements 
+was the primary challenge. 
+
 ## Checkpoints briefs
