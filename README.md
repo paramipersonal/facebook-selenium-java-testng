@@ -2,7 +2,6 @@
 
 
 * [Prerequisites](#prerequisites)
-* [Dependencies used in pom.xml](#dependencies-used-in-pomxml)
 * [Clone and run project using Eclipse](#clone-and-run-project-using-eclipse)
 * [Project Structure and Descriptions](#project-structure-and-descriptions)
 * [UI constraints](#ui-constraint)
@@ -11,7 +10,15 @@
 ## Prerequisites
 1. **Eclipse IDE**: Eclipse IDE for Java developers can be used to open this maven project 
 
-## Dependencies used in pom.xml
+## Main Dependencies
+1. Java
+2. Selenium 3.0
+3. Maven
+4. TestNG
+5. log4j 2
+
+
+#### Dependency links from maven repository used in pom.xml
 ```
 	<dependency>
     		<groupId>org.seleniumhq.selenium</groupId>
