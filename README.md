@@ -9,7 +9,10 @@ This is a simple project that uses Selenium 3, Java, TestNG to perform the below
 4. Verify the posted status. 
 
 ### Files
-There are three directories under the [source/test/java](https://github.com/paramipersonal/facebook-selenium-java-testng/tree/master/src/test/java) directory:
+There are three packages under the [source/test/java](https://github.com/paramipersonal/facebook-selenium-java-testng/tree/master/src/test/java) directory:
+* [Package: page_objects](#files-inside-page-objects-directory)
+* [Package: test_scenarios](#files-inside-the-test_scenarios-directory)
+* [Package: resources](#names-of-various-files-and-describe)
 
 
 #### Files inside **page-objects** directory
