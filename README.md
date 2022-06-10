@@ -1,7 +1,14 @@
 # Facebook Basic Functionalities
 ## Dependencies
+
 ## Project Structure and Descriptions
-## Files
+This is a simple project that uses Selenium 3, Java, TestNG to perform the below actions : 
+1. Launch Facebook
+2. Login to Facebook Using your choice of email id and password
+3. Post a status "Hello World"
+4. Verify the posted status. 
+
+### Files
 #### Names of various files and describe
 
 #### Files inside **page_objects** directory
