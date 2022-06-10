@@ -33,9 +33,9 @@ There are three packages under the [source/test/java](https://github.com/paramip
 | Messages.java        | Java class containing the resource bundles for string externalization.|           
 | messages.properties | Contains the configurable string inputs like, URL to launch, email ID, password, status text etc                                      
 
-#### Put images of ui type
+#### UI Constraint
 It has been observed that various facebook profile had various navigation patterns involved.
-I observed a couple of facebook profiles, in the same machine, same browser and found two different UI navigation patterns.Here I have used the below UI type to write the tests. Using a different type of UI might change the tests in minor ways.
+I observed a couple of facebook profiles, in the same machine, same browser and found two different UI navigation patterns.Using a different type of UI might change the tests in minor ways.Here I have used the below UI type to write the tests.
 
 **Used UI Type** :
 ![Image1](https://github.com/paramipersonal/facebook-selenium-java-testng/blob/master/images/UI_test1.PNG)
