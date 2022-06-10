@@ -1,4 +1,8 @@
 # Facebook Basic Functionalities
+
+## Prerequisites
+1. **Eclipse IDE**: Eclipse IDE for Java developers can be used to open this maven project 
+
 ## Dependencies used in pom.xml
 ```
 	<dependency>
@@ -40,6 +44,18 @@
 	</dependency>
 	
 ```
+
+## Clone and Run Project using Eclipse:
+1. Clone the repository link:
+```
+https://github.com/paramipersonal/facebook-selenium-java-testng.git
+```
+2. Open Eclipse IDE
+3. Click on File
+4. Go to Import
+5. Navigate to Import from Git ,using smart Import
+6. Clone the github repository.
+7. Eclipse will fetch the master branch, keep clicking on Next button until project is imported.
 
 
 ## Project Structure and Descriptions
