@@ -2,6 +2,7 @@
 
 
 * [Prerequisites](#prerequisites)
+* [Main Dependencies](#main-dependencies)
 * [Clone and run project using Eclipse](#clone-and-run-project-using-eclipse)
 * [Project Structure and Descriptions](#project-structure-and-descriptions)
 * [UI constraints](#ui-constraint)
@@ -114,5 +115,3 @@ I observed a couple of facebook profiles, in the same machine, same browser and 
 ## Challenges
 Since most of the css selectors were created dynamically, finding locators and selecting the proper locators to find the web elements 
 was the primary challenge. 
-
-## Checkpoints briefs
