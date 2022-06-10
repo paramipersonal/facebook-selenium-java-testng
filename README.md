@@ -12,7 +12,9 @@ This is a simple project that uses Selenium 3, Java, TestNG to perform the below
 There are three directories under the [source/test/java](https://github.com/paramipersonal/facebook-selenium-java-testng/tree/master/src/test/java) directory:
 
 
-#### File inside **page-objects** directory
+#### Files inside **page-objects** directory
+#### Files inside the **test_scenarios** directory
+#### Files inside the **resources** directory
 
 
 
