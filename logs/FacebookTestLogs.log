@@ -1,0 +1,15 @@
+[INFO ] 2022-06-10 16:35:21.453 [main] FacebookBasicTestSpec - Test 1:Login to facebook
+[INFO ] 2022-06-10 16:35:21.469 [main] FacebookBasicTestSpec - Step1: Launch facebook
+[INFO ] 2022-06-10 16:35:22.534 [main] FacebookBasicTestSpec - Step2: Waiting for Login Logout Page to Load.
+[INFO ] 2022-06-10 16:35:22.551 [main] FacebookBasicTestSpec - Step3: Enter email Id in user name
+[INFO ] 2022-06-10 16:35:22.678 [main] FacebookBasicTestSpec - Step4: Enter password in password field
+[INFO ] 2022-06-10 16:35:22.797 [main] FacebookBasicTestSpec - Step5: Click the login Button
+[INFO ] 2022-06-10 16:35:22.881 [main] FacebookBasicTestSpec - Step6: Wait for facebook home page to load, post log-in
+[INFO ] 2022-06-10 16:35:26.476 [main] FacebookBasicTestSpec - Test 2: Post a status in Facebook
+[INFO ] 2022-06-10 16:35:26.477 [main] FacebookBasicTestSpec - Step1: Waiting for the facebook Home Page to Load
+[INFO ] 2022-06-10 16:35:26.571 [main] FacebookBasicTestSpec - Step2: Click on the What's on your mind box to post a status
+[INFO ] 2022-06-10 16:35:26.979 [main] FacebookBasicTestSpec - Step3: Type the status message to post
+[INFO ] 2022-06-10 16:35:28.177 [main] FacebookBasicTestSpec - Step4: Click on the 'post' button to post the status
+[INFO ] 2022-06-10 16:35:28.307 [main] FacebookBasicTestSpec - Test3: Verify Posted Status
+[INFO ] 2022-06-10 16:35:28.307 [main] FacebookBasicTestSpec - Step1: Wait for home page to load.
+[INFO ] 2022-06-10 16:35:28.331 [main] FacebookBasicTestSpec - Step2: Verify the posted status

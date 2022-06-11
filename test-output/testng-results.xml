@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-10T14:18:26 EDT" name="Default suite" finished-at="2022-06-10T14:18:42 EDT" duration-ms="16294">
+  <suite started-at="2022-06-10T16:35:17 EDT" name="Default suite" finished-at="2022-06-10T16:35:31 EDT" duration-ms="13842">
     <groups>
     </groups>
-    <test started-at="2022-06-10T14:18:26 EDT" name="Default test" finished-at="2022-06-10T14:18:42 EDT" duration-ms="16294">
+    <test started-at="2022-06-10T16:35:17 EDT" name="Default test" finished-at="2022-06-10T16:35:31 EDT" duration-ms="13842">
       <class name="test_scenarios.FacebookBasicTestSpec">
-        <test-method is-config="true" signature="beforetest()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T14:18:26 EDT" name="beforetest" finished-at="2022-06-10T14:18:29 EDT" duration-ms="3179" status="PASS">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T16:35:17 EDT" name="beforetest" finished-at="2022-06-10T16:35:21 EDT" duration-ms="4094" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforetest -->
-        <test-method signature="verifyLogin()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T14:18:29 EDT" name="verifyLogin" finished-at="2022-06-10T14:18:34 EDT" duration-ms="4572" status="PASS">
+        <test-method signature="verifyLogin()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T16:35:21 EDT" name="verifyLogin" finished-at="2022-06-10T16:35:26 EDT" duration-ms="5038" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method signature="postStatus()[pri:1, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T14:18:34 EDT" name="postStatus" finished-at="2022-06-10T14:18:36 EDT" duration-ms="2104" status="PASS">
+        <test-method signature="postStatus()[pri:1, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T16:35:26 EDT" name="postStatus" finished-at="2022-06-10T16:35:28 EDT" duration-ms="1828" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postStatus -->
-        <test-method signature="verifyStatus()[pri:2, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T14:18:36 EDT" name="verifyStatus" finished-at="2022-06-10T14:18:38 EDT" duration-ms="2121" status="PASS">
+        <test-method signature="verifyStatus()[pri:2, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T16:35:28 EDT" name="verifyStatus" finished-at="2022-06-10T16:35:30 EDT" duration-ms="2650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStatus -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T14:18:38 EDT" name="afterTest" finished-at="2022-06-10T14:18:42 EDT" duration-ms="4231" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test_scenarios.FacebookBasicTestSpec@9f116cc]" started-at="2022-06-10T16:35:30 EDT" name="afterTest" finished-at="2022-06-10T16:35:31 EDT" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

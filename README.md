@@ -7,6 +7,7 @@
 * [Project Structure and Descriptions](#project-structure-and-descriptions)
 * [UI constraints](#ui-constraint)
 * [Challenges](#challenges)
+* [Future Scopes](#scopes)
 
 ## Prerequisites
 1. **Eclipse IDE**: Eclipse IDE for Java developers can be used to open this maven project 
@@ -78,7 +79,7 @@ https://github.com/paramipersonal/facebook-selenium-java-testng.git
 ## Project Structure and Descriptions
 This is a simple project that uses Selenium 3, Java, TestNG to perform the below actions : 
 1. Launch Facebook
-2. Login to Facebook Using your choice of email id and password
+2. Login to Facebook using your choice of email id and password
 3. Post a status "Hello World"
 4. Verify the posted status. 
 
@@ -113,6 +114,9 @@ I observed a couple of facebook profiles, in the same machine, same browser and 
 
 ![Image1](https://github.com/paramipersonal/facebook-selenium-java-testng/blob/master/images/UI_test1.PNG)
 
-## Challenges
+## Challenges 
 Since most of the css selectors were created dynamically, finding locators and selecting the proper locators to find the web elements 
 was the primary challenge. 
+
+## Scopes
+Tests could be made even more flexible by catering to browser settings, like allowing pop ups etc. Currently those have not been handled.
